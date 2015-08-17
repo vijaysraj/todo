@@ -1,0 +1,34 @@
+body{
+	background-image: url(todo.jpg);
+	
+	background-size: cover;
+}
+
+#todo{
+	margin-left: 250px;
+	margin-top: 300px;
+}
+
+#text{
+	width: 250px;
+	border-radius: 5px;
+	border-color: grey;
+}
+#btn{
+	border-radius: 5px;
+	border-color: grey;
+	width: 75px;
+	box-shadow: 15px solid grey;
+}
+
+#rmv{
+	border-radius: 5px;
+	border-color: grey;
+	width: 70px;
+}
+
+span{
+	font-family: 'Pacifico', cursive;
+	font-size: 20px;
+}
+
